@@ -16,3 +16,4 @@ For label meaning:
 * 2:wood
 
 * 3:foliage
+![数据展示](https://github.com/bjfu-lidar/large-scale-forest-semantic-segmentation-dataset/assets/117680229/770e68e5-183f-4f3e-ba3a-580da686e2a8)
