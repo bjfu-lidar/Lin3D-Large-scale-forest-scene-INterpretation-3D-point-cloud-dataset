@@ -5,6 +5,8 @@
 * We will gradually open the dataset to the entire community to promote the development of 3D point cloud deep learning for forestry studies.
 * At present, the data set is still undergoing further revisions, and will continue to be updated here
 # Data information
+The data can be download at https://drive.google.com/drive/folders/1r1yHiT9b21H1Nq8PXiduE6ZLrBu3D94w?usp=sharing
+
 The point cloud data was stored as txt format. The txt file contains four elements: x y z label
 
 For label meaning:
