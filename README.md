@@ -3,11 +3,11 @@
 * Recent breakthroughs in supervised deep learning for 3D scene understanding provide potential solutions for addressing this issue. However, many studies have focused only on forest environments using their own data at small spatiotemporal scales and are restricted to specific ecosystems and sensor types.
 * To fill this gap, we constructed perhaps the first large-scale forest semantic segmentation dataset. It includes over 100 tiles and covers over 40,000 m² of diverse typical ecosystems and forest types and was built upon point clouds collected by various types of sensors (ULS, TLS, ALS, BLS, etc.). Careful manual labelling was carried out by a group of trained students and experts.
 * We will gradually open the dataset to the entire community to promote the development of 3D point cloud deep learning for forestry studies.
-* At present, the data set is still undergoing further revisions, and will continue to be updated here
+* At present, the dataset is still undergoing further revisions, and will continue to be updated here
 # Data information
 The data can be downloaded at https://drive.google.com/drive/folders/1r1yHiT9b21H1Nq8PXiduE6ZLrBu3D94w?usp=sharing
 
-The point cloud data is stored in a .txt format file, which contains four elements: x y z label
+The point cloud data are stored in a .txt format file, which contain four elements: x y z label
 
 For label meaning:
 
