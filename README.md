@@ -4,7 +4,7 @@
 * To fill this gap, we constructed perhaps the first large-scale forest semantic segmentation dataset. It includes over 100 tiles and covers over 40,000 m² of diverse typical ecosystems and forest types and was built upon point clouds collected by various types of sensors (ULS, TLS, ALS, BLS, etc.). Careful manual labelling was carried out by a group of trained students and experts.
 * We will gradually open the dataset to the entire community to promote the development of 3D point cloud deep learning for forestry studies.
 * At present, the dataset is still undergoing further revisions, and will continue to be updated here
-# Data information of Lin3D v0.1
+# Data information of Lin3D v0.1 (update in 2023.9.5)
 The data can be downloaded at https://drive.google.com/drive/folders/1r1yHiT9b21H1Nq8PXiduE6ZLrBu3D94w?usp=sharing
 
 Lin3D v0.1 mainly contains annotated TLS point cloud TLS collected in GuangXi.
@@ -23,7 +23,7 @@ For label meaning:
 
 ![TLS LIN3dSHUJU](https://github.com/user-attachments/assets/eabe7dbb-b42e-4d49-8bd2-ac5f06cd98d4)
 
-# Data information of Lin3D v0.2
+# Data information of Lin3D v0.2 (update in 2024.12.17)
 
 The data can be downloaded at https://drive.google.com/drive/folders/1TtpbtGr7QZQDoBZABRCdjco6M7pdJZqS?usp=drive_link
 
