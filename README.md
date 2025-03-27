@@ -25,7 +25,7 @@ For label meaning:
 
 # Data information of Lin3D v0.2 (update in 2024.12.17)
 
-The data can be downloaded at https://drive.google.com/drive/folders/1TtpbtGr7QZQDoBZABRCdjco6M7pdJZqS?usp=drive_link
+The data can be downloaded at https://drive.google.com/file/d/1RevGwD7j18xX3-PDsUchTLUa5mAib3tx/view?usp=sharing
 
 Lin3D v0.2 mainly updates annotated ULS point cloud used in our paper "Towards a point cloud understanding framework for forest scene semantic segmentation across forest types and sensor platforms".
 
